@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\admin\Downloads\Meadow3D_OpenGL33_Windows — копия\meadow3d_first_version\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\admin\Downloads\Meadow3D_OpenGL33_Windows — копия\meadow3d_first_version\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1FCF838F-6813-31CD-A62C-25BEA8C02F69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

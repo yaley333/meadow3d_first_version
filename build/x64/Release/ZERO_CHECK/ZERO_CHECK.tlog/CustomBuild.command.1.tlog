@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DOWNLOADS\MEADOW3D_OPENGL33_WINDOWS — КОПИЯ\MEADOW3D_FIRST_VERSION\BUILD\CMAKEFILES\6DF12659F28516E7C2E412BB4341AAD8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/admin/Downloads/Meadow3D_OpenGL33_Windows — копия/meadow3d_first_version" "-BC:/Users/admin/Downloads/Meadow3D_OpenGL33_Windows — копия/meadow3d_first_version/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/admin/Downloads/Meadow3D_OpenGL33_Windows — копия/meadow3d_first_version/build/Meadow3D.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

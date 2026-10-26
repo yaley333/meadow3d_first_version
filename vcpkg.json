@@ -1,0 +1,5 @@
+{
+  "name": "meadow3d",
+  "version-string": "1.0.0",
+  "dependencies": ["glfw3", "glad"]
+}

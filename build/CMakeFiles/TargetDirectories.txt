@@ -1,0 +1,3 @@
+C:/Users/admin/Downloads/Meadow3D_OpenGL33_Windows — копия/meadow3d_first_version/build/CMakeFiles/Meadow3D.dir
+C:/Users/admin/Downloads/Meadow3D_OpenGL33_Windows — копия/meadow3d_first_version/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/admin/Downloads/Meadow3D_OpenGL33_Windows — копия/meadow3d_first_version/build/CMakeFiles/ZERO_CHECK.dir
